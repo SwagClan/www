@@ -1,3 +1,5 @@
 /*hier alle configuratie*/
-
-/*# sourceMappingURL=stijl.css.map */
+/* line 2, ../scss/stijl.scss */
+body {
+  background-color: white;
+}
