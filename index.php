@@ -7,24 +7,31 @@
 <body>
 <!-- Main Logo -->
 <header>
-
+    <p>Lorem ipsum dolor sit amet, consectetur.</p>
 </header>
+
 <!-- Upper Menu-->
-<nav id="topmenu">
-    <ul>
+<div id="topmenu">
+    <ul >
         <li>Menu1</li>
         <li>Menu2</li>
         <li>Menu3</li>
         <li>Menu4</li>
     </ul>
-</nav>
+</div>
+
 <!-- Main Page -->
 <div>
-
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur atque commodi corporis cum cupiditate ea,
+        eveniet facere iste iusto maiores non, nostrum obcaecati placeat quia soluta, veritatis vero vitae
+        voluptate!
+    </p>
 </div>
+
 <!-- Footer -->
 <footer>
-
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, exercitationem!</p>
 </footer>
 </body>
 </html>
