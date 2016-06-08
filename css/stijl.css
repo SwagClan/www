@@ -1,3 +1,10 @@
-/*hier alle configuratie*/
-
-/*# sourceMappingURL=stijl.css.map */
+/* line 1, ../scss/stijl.scss */
+body {
+  width: 80%;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
