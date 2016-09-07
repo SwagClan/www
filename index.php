@@ -1,37 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
-    <title>Swagg Clan Official Site</title>
+    <title>Official Swagclan Site</title>
+    <link rel="stylesheet" href="css/stijl.css" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Aldrich" rel="stylesheet">
 </head>
 <body>
-<!-- Main Logo -->
-<header>
-    <p>Lorem ipsum dolor sit amet, consectetur.</p>
-</header>
-
-<!-- Upper Menu-->
-<div id="topmenu">
-    <ul >
-        <li>Menu1</li>
-        <li>Menu2</li>
-        <li>Menu3</li>
-        <li>Menu4</li>
-    </ul>
+<div id="construction">
+    <img src="images/logo.png"/>
+    <p>Site under construction</p>
 </div>
-
-<!-- Main Page -->
-<div>
-    <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur atque commodi corporis cum cupiditate ea,
-        eveniet facere iste iusto maiores non, nostrum obcaecati placeat quia soluta, veritatis vero vitae
-        voluptate!
-    </p>
-</div>
-
-<!-- Footer -->
-<footer>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, exercitationem!</p>
-</footer>
 </body>
 </html>
